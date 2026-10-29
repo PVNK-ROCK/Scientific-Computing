@@ -1,7 +1,5 @@
 # BIT 2118: Scientific Computing: Group Work (Tasks 7 and 8)
 
-> **Student:** _Your name_ · **Reg. No.:** _Your registration number_ · **Group:** _Group name/number_
-> (Discussions were done as group work; this repository is my own individual submission.)
 
 Each task contains: (1) the inputs and mathematical operation, (2) the program output, (3) an interpretation in words
 (including the graph where there is one), (4) a change of at least one input/parameter with an explanation of how the
